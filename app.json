@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "taks-app-3",
+    "slug": "snack-56f534f8-4b3c-42c6-98fb-b79047f2084f",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.taksapp3"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.taksapp3"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "for Home Mall Ayaz"
+  }
+}

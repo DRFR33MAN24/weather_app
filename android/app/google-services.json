@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "69480292287",
+    "project_id": "taksapp3",
+    "storage_bucket": "taksapp3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69480292287:android:84ff656cc8c9c241634b0a",
+        "android_client_info": {
+          "package_name": "com.taksapp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69480292287-u4mppmb185em8ou9chn4silv2809jrsb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taksapp3",
+            "certificate_hash": "869c188d6314d1c385cd5b549085ded031140e7a"
+          }
+        },
+        {
+          "client_id": "69480292287-efo6cjsoumsq86tconqrjtssca626678.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQRkdKL_vxJ5MlTlDchTzD0k0d-6hxPYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69480292287-efo6cjsoumsq86tconqrjtssca626678.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
